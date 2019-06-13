@@ -64,6 +64,13 @@
 			
 				box.css('left', position);
 
+				if(position < 0) {
+					console.log("Right Wall Hit");
+					direction = 1;
+					console.log(direction);
+				}
+			
+				box.css('left', position);
 			}
 		
 			

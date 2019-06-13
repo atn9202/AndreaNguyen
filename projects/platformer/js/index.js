@@ -1,4 +1,4 @@
-/* global Phaser */
+/* globalPhaser */
 (document).ready(function () {
     'use strict';
     window.opspark = window.opspark || {};
