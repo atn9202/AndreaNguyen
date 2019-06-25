@@ -35,8 +35,28 @@
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
         // example: 
-        collectable.create(type.steve, 200, 170, 6, 0.7);
-        
+        collectable.create(type.steve, 200, 180, 6, 0.7);
+        collectable.create(type.max, 300, 450, 6, 0.7);
+        collectable.create(type.kennedi, 800, 75, 6, 0.7);
+        collectable.create(type.grace, 670, 230, 6, 0.7);
+        collectable.create(type.max, 695, 460, 6, 0.7);
+        collectable.create(type.max, 745, 460, 6, 0.7);
+        collectable.create(type.max, 795, 460, 6, 0.7);
+        collectable.create(type.max, 845, 460, 6, 0.7);
+        collectable.create(type.kennedi, 695, 490, 6, 0.7);
+        collectable.create(type.kennedi, 745, 490, 6, 0.7);
+        collectable.create(type.kennedi, 795, 490, 6, 0.7);
+        collectable.create(type.kennedi, 845, 490, 6, 0.7);
+        collectable.create(type.steve, 695, 430, 6, 0.7);
+        collectable.create(type.steve, 745, 430, 6, 0.7);
+        collectable.create(type.steve, 795, 430, 6, 0.7);
+        collectable.create(type.steve, 845, 430, 6, 0.7);
+        collectable.create(type.grace, 695, 510, 6, 0.7);
+        collectable.create(type.grace, 745, 510, 6, 0.7);
+        collectable.create(type.grace, 795, 510, 6, 0.7);
+        collectable.create(type.grace, 845, 510, 6, 0.7);
+        collectable.create(type.steve, 450, 320, 6, 0.7);
+        collectable.create(type.grace, 450, 325, 6, 0.7);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
